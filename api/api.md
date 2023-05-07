@@ -1,6 +1,6 @@
 # API example
 
-The following is an example of how an API can be written for the course DD1327. 
+The following is an example of how an API can be written for the course DD1327, it should be noted that this project would be too small to be accepted as a final project but it gives an idea of what the API should look like. 
 This example is for a program that implements a class for randomly selecting colored beads from a bag. 
 Features include adding beads to the bag, taking beads out of the bag and peaking at a bead inside the bag.
 Below is an API written in markdown, an example of the same API written in as python script can be found [here](https://github.com/Theo-Ing/grudat_2023/blob/main/api/api.py). Note that nothing about how the methods are implemented are described in the API, only what the methods actually achieve.
